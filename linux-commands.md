@@ -1,4 +1,4 @@
-# Everday Linux Commands
+# Everyday Linux Commands
 A great cloud engineer knows her tools and Linux is one of those tools therefore it is imperative to know how to use linux from the command line.
 
 Below are common commands you would use in your everyday operation in Linux
@@ -97,7 +97,7 @@ rmdir <directory name>
 
 :warning: The above command will only work for an empty directory, if there are files present in that directory you will get an error message like you can see in the image below:
 
-<<<<<<<<<<<<<<< 1-1 >>>>>>>>>>>>>>>
+![1-1](https://github.com/ChigozieCO/linux-101/assets/107365067/3d2bc681-4096-473d-b226-52c36b926833)
 
 There is a command that can be used to delete a directory along with the files it contains in just one step but as a beginner it's advisibkle to be very cautious in using that command.
 
